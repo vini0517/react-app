@@ -1,5 +1,5 @@
 import { useReducer, useState } from "react"
-import "../../css/Home.css"
+
 const initialState = {name:"Home"}
 function handleClick(state,action){
     if(action.type === "prevState"){
