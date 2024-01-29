@@ -1,0 +1,35 @@
+.sign-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+  }
+  
+  .sign-up-form {
+    width: 300px;
+  }
+  
+  .sign-up-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .sign-up-form label {
+    margin-bottom: 10px;
+  }
+  
+  .sign-up-form input {
+    margin-bottom: 10px;
+  }
+  
+  .sign-up-form button {
+    align-self: flex-start;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .success-message {
+    color: green;
+  }
+  

@@ -2,7 +2,8 @@ ol{
     display:flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: pink;
+    background-color: rgb(199, 58, 227);
     margin: 0%;
     padding: 15px;
 }
+
